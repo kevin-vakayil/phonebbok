@@ -2,7 +2,7 @@
 
 while :
 do
-echo "Welcome to All New phone directory"
+echo "Welcome to All awesome phone directory"
 echo "1. Add new contact"
 echo "2. Display contact number for name"
 echo "3. List of contacts"
